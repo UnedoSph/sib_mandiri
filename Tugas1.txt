@@ -1,0 +1,16 @@
+Nama : Unedo Dionisius Sipahutar
+NFA ID : MAD02021
+
+Tugas 1 Code Version VCS, GIT, dan GitHub
+
+1. Buatlah akun github
+
+2. Buatlah repository dengan akses public
+
+3. Upload beberapa file didalam repository tersebut
+
+4. Buat minimal 3 branch
+
+5. Forking minimal satu repository orang lain
+
+Kumpulkan bukti tersebut kedalam pdf beserta link GitHub.
